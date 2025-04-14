@@ -43,6 +43,7 @@
               vim
               git
               btop
+              lazygit
               nerd-fonts.noto
             ];
 
